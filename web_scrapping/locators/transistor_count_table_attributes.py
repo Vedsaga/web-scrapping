@@ -1,0 +1,3 @@
+class TransistorCountTableAttributes:
+    TabIndex = 'tabindex'
+    
